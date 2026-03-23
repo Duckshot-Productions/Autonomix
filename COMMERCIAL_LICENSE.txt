@@ -1,0 +1,211 @@
+AUTONOMIX COMMERCIAL LICENSE AGREEMENT
+
+
+
+Version 1.0 | Effective Date: March 2026
+
+
+
+Copyright (c) 2026 Duckshot Productions. All Rights Reserved.
+
+
+
+IMPORTANT: PLEASE READ THIS LICENSE CAREFULLY BEFORE USING THE SOFTWARE.
+
+
+
+BY INSTALLING, ACCESSING, OR USING THE AUTONOMIX SOFTWARE ("SOFTWARE"), YOU 
+
+("LICENSEE") AGREE TO BE BOUND BY THE TERMS OF THIS COMMERCIAL LICENSE 
+
+AGREEMENT ("AGREEMENT"). IF YOU DO NOT AGREE TO THESE TERMS, DO NOT USE THE 
+
+SOFTWARE.
+
+
+
+1. DEFINITIONS
+
+
+
+1.1 "Software" means the AutonomiX data processing engine, including all 
+
+    source code, object code, documentation, and related materials.
+
+
+
+1.2 "License Key" means the unique cryptographic key provided to Licensee 
+
+    upon payment of applicable fees.
+
+
+
+1.3 "Authorized User" means Licensee's employees, contractors, or agents 
+
+    authorized to use the Software on Licensee's behalf.
+
+
+
+2. LICENSE GRANT
+
+
+
+Subject to payment of applicable fees and compliance with this Agreement, 
+
+Duckshot Productions ("Licensor") grants Licensee a limited, non-exclusive, 
+
+non-transferable license to:
+
+
+
+(a) Install and use the Software according to the purchased tier:
+
+    - Starter: Single node, limited row processing
+
+    - Pro: Multiple nodes, unlimited processing
+
+    - Enterprise: Full source access, customization rights
+
+
+
+(b) Create derivative works for internal use only (Pro/Enterprise tiers)
+
+
+
+(c) Distribute compiled binaries to Authorized Users
+
+
+
+3. RESTRICTIONS
+
+
+
+Licensee SHALL NOT:
+
+
+
+(a) Reverse engineer, decompile, or disassemble the Software
+
+(b) Remove or alter any copyright, trademark, or proprietary notices
+
+(c) Transfer, sublicense, or distribute the Software to third parties
+
+(d) Use the Software to develop competing products
+
+(e) Publish benchmarks or performance data without written consent
+
+(f) Resell, rent, lease, or time-share the Software
+
+
+
+4. INTELLECTUAL PROPERTY
+
+
+
+4.1 All rights, title, and interest in the Software remain with Licensor.
+
+
+
+4.2 This Agreement does not grant Licensee any ownership rights.
+
+
+
+4.3 Feedback provided by Licensee may be used by Licensor without restriction.
+
+
+
+5. CONFIDENTIALITY
+
+
+
+5.1 "Confidential Information" includes source code, algorithms, trade secrets, 
+
+    and technical documentation.
+
+
+
+5.2 Licensee agrees to protect Confidential Information with at least the same 
+
+    degree of care used for Licensee's own confidential information.
+
+
+
+6. FEES AND PAYMENT
+
+
+
+6.1 License fees are non-refundable except as required by law.
+
+
+
+6.2 Failure to pay fees results in immediate license termination.
+
+
+
+7. SUPPORT AND MAINTENANCE
+
+
+
+7.1 Pro tier includes email support with 48-hour response time.
+
+
+
+7.2 Enterprise tier includes priority support and custom development.
+
+
+
+8. TERM AND TERMINATION
+
+
+
+8.1 This Agreement begins upon payment and continues until terminated.
+
+
+
+8.2 Licensor may terminate for breach with 30 days notice.
+
+
+
+8.3 Upon termination, Licensee must destroy all copies of the Software.
+
+
+
+9. WARRANTY DISCLAIMER
+
+
+
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND.
+
+
+
+10. LIMITATION OF LIABILITY
+
+
+
+LICENSOR'S TOTAL LIABILITY SHALL NOT EXCEED AMOUNTS PAID BY LICENSEE.
+
+
+
+11. GOVERNING LAW
+
+
+
+This Agreement is governed by the laws of the State of Delaware, USA.
+
+
+
+12. ENTIRE AGREEMENT
+
+
+
+This Agreement constitutes the entire agreement between the parties.
+
+
+
+For licensing inquiries: licensing@duckshot.productions
+
+
+
+Duckshot Productions
+
+Aric Yesel, Founder
